@@ -1,0 +1,42 @@
+
+version: 2
+
+models:
+  - name: Fct_Transactions
+    description: "Fact Table for the Model"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+
+  - name: Dim_Devices
+    description: "Dimention"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+
+  - name: Dim_Stores
+    description: "Dimention"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null
+
+  - name: Dim_Devices
+    description: "Dimention"
+    columns:
+      - name: id
+        description: "The primary key for this table"
+        data_tests:
+          - unique
+          - not_null        
+
+                
+ 
