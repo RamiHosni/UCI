@@ -1,4 +1,4 @@
-# Sumup Project
+# Project
 
 ## Introduction
 
