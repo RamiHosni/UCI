@@ -230,15 +230,6 @@ Now the views are present in our snowflake database.
 
 ---
 
-## 4 Data Visualization and more insights  
-
-
-With Snowflake Database connected to power bi we can grab out data for visualizations and further data discovery: 
-
-<img width="975" height="557" alt="image" src="https://github.com/user-attachments/assets/c4a20b9e-5931-4ea7-8308-5907296b9291" />
-Figure 10 Data visualization and further insights
-
-As we can see in fig(9) after the data was ingested from Snowflake an interactive dashboard was created to dive deeper, discover more kpis and to be able to filter fast and effective. 
 
 
 
