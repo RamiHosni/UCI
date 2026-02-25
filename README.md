@@ -231,7 +231,8 @@ Now the views are present in our snowflake database.
 ---
 ## Visualization 
 
-<img width="1306" height="751" alt="image" src="https://github.com/user-attachments/assets/f1692200-2b15-49dd-a727-f97bfc3f0243" />
+<img width="1329" height="743" alt="image" src="https://github.com/user-attachments/assets/525faa4b-6031-429a-bb33-fbad773db941" />
+
 
 
 
