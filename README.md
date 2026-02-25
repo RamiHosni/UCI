@@ -229,6 +229,9 @@ Finally run all of the views using dbt run:
 Now the views are present in our snowflake database. 
 
 ---
+## Visualization 
+
+<img width="1306" height="751" alt="image" src="https://github.com/user-attachments/assets/f1692200-2b15-49dd-a727-f97bfc3f0243" />
 
 
 
